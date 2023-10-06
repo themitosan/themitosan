@@ -5,7 +5,7 @@
 
 I'm *TheMitoSan¹*, creator of [R3ditor](https://github.com/themitosan/R3ditor), [R3ditor V2 (aka. R3V2)](https://github.com/themitosan/R3ditor-V2) and [fpPS4 Temmie's Launcher](https://github.com/themitosan/fpPS4-Temmie-s-Launcher).
 
-My life goal is making apps / tools and games using web-technology as offline it can be² - _without any usage / assistance of generative AI_.
+My life goal is making apps / tools and games using web-technology as offline it can be² - __without any usage / assistance of generative AI__.
 
 I started my dev journey using *Visual Studio 6.0* but then I moved to web development because even back then, I knew that the future lies on the web.
 
