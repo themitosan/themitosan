@@ -46,6 +46,6 @@ If you have any doubts about any of my projects or just want to have a nice conv
 #
 *<sup>¹ - Formerly known as TemmieHeartz.</sup>*
 
-*<sup>² - I know that today it's very rare not having any kind of connection and is kinda controverse making web-apps that **must** offline but... In the end, the back-end world can be as colorfull as you want paint it - with all rainbows and stuff... Untill you get offline! :v</sup>*
+*<sup>² - I know that today it's very rare not having any kind of connection and is kinda controverse making web-apps that **must** offline but... In the end, the back-end world can be as colorful as you want paint it - with all rainbows and stuff... Until you get offline! :v</sup>*
 
 *<sup>³ - What ~(weirdly)~ is called today as "Biolerplate". **It's a Template** - Nothing more, nothing less.</sup>*
