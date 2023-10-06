@@ -33,6 +33,13 @@ If you have any doubts about any of my projects or just want to have a nice conv
 <a target="_blank" href="https://github.com/themitosan/TemmieDeck"><img style="width:50px;" alt="TemmieDeck" src="https://github.com/themitosan/TemmieDeck/blob/main/App/img/icon.png?raw=true"></a>
 <a target="_blank" href="https://github.com/themitosan/RJX_Toolset"><img style="width:50px;" alt="RJX_Toolset" src="https://raw.githubusercontent.com/themitosan/RJX_Toolset/master/App/img/logo.png"></a>
 <a target="_blank" href="https://github.com/themitosan/MythDeck"><img style="width:50px;" alt="MythDeck" src="https://github.com/themitosan/MythDeck/raw/master/App/img/logo.png"></a>
+<img style="width:120px;cursor:not-allowed;" alt="Medo" src="img/Medo.png">
+<img style="width:44px;cursor:not-allowed;" alt="comandi" src="img/comandi.png">
+<img style="width:50px;cursor:not-allowed;" alt="RLauncherJS" src="img/RLauncher.png">
+<img style="width:50px;cursor:not-allowed;" alt="TMS Engine" src="img/TMS_Engine.png">
+<img style="width:50px;cursor:not-allowed;" alt="MythEngine" src="img/MythEngine.png">
+<img style="width:50px;cursor:not-allowed;" alt="MythEngine_Editor" src="img/MythEngine_Editor.png">
+
 
 </h4>
 
