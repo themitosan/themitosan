@@ -19,7 +19,7 @@ If you have any doubts about any of my projects or just want to have a nice conv
 
 <br>
 
-*Here is a list of apps / games / tools that I created*
+*Here is a list of apps / games / tools / libraries that I created*
 
 <a target="_blank" href="https://github.com/themitosan/R3ditor"><img style="width:50px;" alt="R3ditor" src="https://raw.githubusercontent.com/themitosan/R3ditor/master/App/Img/logo.png"></a>
 <a target="_blank" href="https://github.com/themitosan/R3ditor-V2"><img style="width:50px;" alt="R3V2" src="https://github.com/themitosan/R3ditor-V2/blob/main/App/img/logo.png?raw=true"></a>
