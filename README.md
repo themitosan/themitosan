@@ -43,6 +43,8 @@ If you have any doubts about any of my projects or just want to have a nice conv
 <img style="width:50px;cursor:not-allowed;" alt="fpPS4_TL_2_0_Editor" src="img/fpPS4_TL_2_0_Editor.png">
 <img style="width:50px;cursor:not-allowed;" alt="hdrStreamview" src="img/hdr_streamview.png">
 <img style="width:50px;cursor:not-allowed;" alt="temmie_streamview" src="img/temmie_streamview.png">
+<img style="width:50px;cursor:not-allowed;" alt="r3_compiler" src="img/r3_compiler.png">
+<img style="width:50px;cursor:not-allowed;" alt="r3_setup" src="img/r3_setup.png">
 
 </h4>
 
