@@ -19,7 +19,7 @@ If you have any doubts about any of my projects or just want to have a nice conv
 
 <br>
 
-*Here is a list of apps / games / tools / libraries that I created*
+*Here is a list of apps / games / tools / libraries that I created:*
 
 <a target="_blank" href="https://github.com/themitosan/R3ditor"><img style="width:50px;" alt="R3ditor" src="https://raw.githubusercontent.com/themitosan/R3ditor/master/App/Img/logo.png"></a>
 <a target="_blank" href="https://github.com/themitosan/R3ditor-V2"><img style="width:50px;" alt="R3V2" src="https://github.com/themitosan/R3ditor-V2/blob/main/App/img/logo.png?raw=true"></a>
@@ -34,12 +34,15 @@ If you have any doubts about any of my projects or just want to have a nice conv
 <a target="_blank" href="https://github.com/themitosan/RJX_Toolset"><img style="width:50px;" alt="RJX_Toolset" src="https://raw.githubusercontent.com/themitosan/RJX_Toolset/master/App/img/logo.png"></a>
 <a target="_blank" href="https://github.com/themitosan/MythDeck"><img style="width:50px;" alt="MythDeck" src="https://github.com/themitosan/MythDeck/raw/master/App/img/logo.png"></a>
 <img style="width:120px;cursor:not-allowed;" alt="Medo" src="img/Medo.png">
+<img style="width:50px;cursor:not-allowed;" alt="medo2" src="img/medo_2.png">
 <img style="width:44px;cursor:not-allowed;" alt="comandi" src="img/comandi.png">
 <img style="width:50px;cursor:not-allowed;" alt="RLauncherJS" src="img/RLauncher.png">
 <img style="width:50px;cursor:not-allowed;" alt="TMS Engine" src="img/TMS_Engine.png">
 <img style="width:50px;cursor:not-allowed;" alt="MythEngine" src="img/MythEngine.png">
 <img style="width:50px;cursor:not-allowed;" alt="MythEngine_Editor" src="img/MythEngine_Editor.png">
 <img style="width:50px;cursor:not-allowed;" alt="fpPS4_TL_2_0_Editor" src="img/fpPS4_TL_2_0_Editor.png">
+<img style="width:50px;cursor:not-allowed;" alt="hdrStreamview" src="img/hdr_streamview.png">
+<img style="width:50px;cursor:not-allowed;" alt="temmie_streamview" src="img/temmie_streamview.png">
 
 </h4>
 
