@@ -23,7 +23,6 @@ If you have any doubts about any of my projects or just want to have a nice conv
 
 <a target="_blank" href="https://github.com/themitosan/R3ditor"><img style="width:50px;" alt="R3ditor" src="https://raw.githubusercontent.com/themitosan/R3ditor/master/App/Img/logo.png"></a>
 <a target="_blank" href="https://github.com/themitosan/R3ditor-V2"><img style="width:50px;" alt="R3V2" src="https://github.com/themitosan/R3ditor-V2/blob/main/App/img/logo.png?raw=true"></a>
-<a target="_blank" href="https://github.com/themitosan/R3V3-ARCHIVE"><img style="width:50px;" alt="R3V3" src="https://github.com/temmieheartz/R3V3-ARCHIVE/raw/main/App/img/logo.png?raw=true"></a>
 <a target="_blank" href="https://github.com/themitosan/TMS.js"><img style="width:50px;" alt="TMS_JS" src="https://raw.githubusercontent.com/themitosan/TMS.js/main/tmsjs.png"></a>
 <a target="_blank" href="https://github.com/themitosan/fpPS4-Temmie-s-Launcher"><img style="width:50px;" alt="fpPS4_TL" src="https://github.com/themitosan/fpPS4-Temmie-s-Launcher/blob/main/App/img/logo.png?raw=true"></a>
 <a target="_blank" href="https://github.com/themitosan/fpPS4-Temmie-s-Launcher/tree/Rewrite-WIP"><img style="width:50px;" alt="fpPS4_TL_2_0" src="https://github.com/themitosan/fpPS4-Temmie-s-Launcher/blob/Rewrite-WIP/App/img/icon.png?raw=true"></a>
@@ -31,23 +30,6 @@ If you have any doubts about any of my projects or just want to have a nice conv
 <a target="_blank" href="https://github.com/themitosan/R3-Auto-Map-Gen"><img style="width:50px;" alt="R3_AM_G" src="https://github.com/themitosan/R3-Auto-Map-Gen/raw/main/App/img/icon.png?raw=true"></a>
 <a target="_blank" href="https://themitosan.github.io/R3AMV"><img style="width:50px;" alt="R3_AM_V" src="https://themitosan.github.io/R3AMV/img/icon.png"></a>
 <a target="_blank" href="https://github.com/themitosan/TemmieDeck"><img style="width:50px;" alt="TemmieDeck" src="https://github.com/themitosan/TemmieDeck/blob/main/App/img/icon.png?raw=true"></a>
-<a target="_blank" href="https://github.com/themitosan/RJX_Toolset"><img style="width:50px;" alt="RJX_Toolset" src="https://raw.githubusercontent.com/themitosan/RJX_Toolset/master/App/img/logo.png"></a>
-<a target="_blank" href="https://github.com/themitosan/MythDeck"><img style="width:50px;" alt="MythDeck" src="https://github.com/themitosan/MythDeck/raw/master/App/img/logo.png"></a>
-
-*Here is a list of apps, tools and games that is unpublished or isn't available anymore:*
-
-<img style="width:120px;cursor:not-allowed;" alt="Medo" src="img/Medo.png">
-<img style="width:50px;cursor:not-allowed;" alt="medo2" src="img/medo_2.png">
-<img style="width:44px;cursor:not-allowed;" alt="comandi" src="img/comandi.png">
-<img style="width:50px;cursor:not-allowed;" alt="RLauncherJS" src="img/RLauncher.png">
-<img style="width:50px;cursor:not-allowed;" alt="TMS Engine" src="img/TMS_Engine.png">
-<img style="width:50px;cursor:not-allowed;" alt="MythEngine" src="img/MythEngine.png">
-<img style="width:50px;cursor:not-allowed;" alt="MythEngine_Editor" src="img/MythEngine_Editor.png">
-<img style="width:50px;cursor:not-allowed;" alt="fpPS4_TL_2_0_Editor" src="img/fpPS4_TL_2_0_Editor.png">
-<img style="width:50px;cursor:not-allowed;" alt="hdrStreamview" src="img/hdr_streamview.png">
-<img style="width:50px;cursor:not-allowed;" alt="temmie_streamview" src="img/temmie_streamview.png">
-<img style="width:50px;cursor:not-allowed;" alt="r3_compiler" src="img/r3_compiler.png">
-<img style="width:50px;cursor:not-allowed;" alt="r3_setup" src="img/r3_setup.png">
 
 </h4>
 
