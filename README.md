@@ -28,7 +28,6 @@ If you have any doubts about any of my projects or just want to have a nice conv
 <a target="_blank" href="https://github.com/themitosan/fpPS4-Temmie-s-Launcher/tree/Rewrite-WIP"><img style="width:50px;" alt="fpPS4_TL_2_0" src="https://github.com/themitosan/fpPS4-Temmie-s-Launcher/blob/Rewrite-WIP/App/img/icon.png?raw=true"></a>
 <a target="_blank" href="https://github.com/themitosan/r3-water-sample-puzzle"><img style="width:50px;" alt="R3_WS_P" src="https://github.com/themitosan/r3-water-sample-puzzle/raw/main/App/img/icon.png?raw=true"></a>
 <a target="_blank" href="https://github.com/themitosan/R3-Auto-Map-Gen"><img style="width:50px;" alt="R3_AM_G" src="https://github.com/themitosan/R3-Auto-Map-Gen/raw/main/App/img/icon.png?raw=true"></a>
-<a target="_blank" href="https://themitosan.github.io/R3AMV"><img style="width:50px;" alt="R3_AM_V" src="https://themitosan.github.io/R3AMV/img/icon.png"></a>
 <a target="_blank" href="https://github.com/themitosan/TemmieDeck"><img style="width:50px;" alt="TemmieDeck" src="https://github.com/themitosan/TemmieDeck/blob/main/App/img/icon.png?raw=true"></a>
 
 </h4>
