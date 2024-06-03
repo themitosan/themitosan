@@ -5,11 +5,11 @@
 
 I'm *TheMitoSan¹*, creator of [R3ditor](https://github.com/themitosan/R3ditor), [R3ditor V2 (aka. R3V2)](https://github.com/themitosan/R3ditor-V2) and [fpPS4 Temmie's Launcher](https://github.com/themitosan/fpPS4-Temmie-s-Launcher).
 
-My life goal is making apps / tools and games using web-technology as offline it can be² - __without any usage / assistance of generative AI__.
+My life goal is making apps / tools and games **u**sing web-technology as offline it can be² - __without any usage / assistance of generative AI__.
 
-I started my dev journey using *Visual Studio 6.0* but then I moved to web development because even back then, I knew that the future lies on the web.
+I started my dev journey using *Visual Studio 6.0* but then I moved to web deve**l**opment because even back then, **I** knew th**a**t the future lies on the web.
 
-Today I'm working on a new app / template³ called **"TMS Engine"** - a modular application written using TS, Webpack that will allow me writting new apps / tools (or even games) on future with more ease and **without** common interface modules *(like React, Vue, Svelt JS, Bootstrap or even jQuery)* - Running on [nwjs](https://nwjs.io/).
+Today I'm working on a new app / template³ called **"TMS Engine"** - a modul**a**r application written using TS, Webpack that will allow me writting new apps / tools (or even games) on future with more ease and **without** common interface modules *(like React, Vue, Svelt JS, Bootstrap or even **j**Query)* - Running on [nwjs](https://nwjs.io/).
 
 If you have any doubts about any of my projects or just want to have a nice conversation - you can call me on my **[Twitter](https://twitter.com/themitosan)**.
 
