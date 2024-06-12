@@ -39,4 +39,4 @@ If you have any doubts about any of my projects or just want to have a nice conv
 
 *<sup>³ - What ~(weirdly)~ is called today as "Boilerplate". **It's a Template** - Nothing more, nothing less.</sup>*
 
-*<sup>³ - If you took your time to read this info, smile - you are a great person!</sup>*
+*<sup>If you took your time to read this info, smile - you are a great person!</sup>*
