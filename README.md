@@ -33,6 +33,17 @@ If you have any doubts about any of my projects or just want to have a nice conv
 </h4>
 
 #
+<h4 align="center">
+
+*Nerd stats:*
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themitosan&theme=dark" alt="nerd_stats_0" />
+<img src="https://github-readme-stats.vercel.app/api/?username=themitosan&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark" alt="nerd_stats_1" />
+<img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=themitosan&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=dark" alt="nerd_stats_2" />
+
+</h4>
+
+#
 *<sup>¹ - Formerly known as TemmieHeartz.</sup>*
 
 *<sup>² - I know that today it's very rare not having any kind of connection and is kinda controverse making web-apps that **must** offline but... In the end, the back-end world can be as colorful as you want paint it - with all rainbows and stuff... Until you get offline! :v</sup>*
