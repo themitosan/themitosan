@@ -39,7 +39,6 @@ If you have any doubts about any of my projects or just want to have a nice conv
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themitosan&theme=dark" alt="nerd_stats_0" />
 <img src="https://github-readme-stats.vercel.app/api/?username=themitosan&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark" alt="nerd_stats_1" />
-<img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=themitosan&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=dark" alt="nerd_stats_2" />
 
 </h4>
 
