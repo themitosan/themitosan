@@ -11,7 +11,7 @@ I started my dev journey using *Visual Studio 6.0* but then I moved to web deve*
 
 Today I'm working on a new app / template³ called "[TMS Engine](https://x.com/themitosan/status/1706278526846980268)" - a modul**a**r application written using TS, Webpack that will allow me writting new apps / tools (or even games) on future with more ease and **without** common interface modules *(like React, Vue, Svelt JS, Bootstrap or even **j**Query)* - Running on [nwjs](https://nwjs.io/).
 
-If you have any doubts about any of my projects or just want to have a nice conversation - you can call me on my **[Twitter](https://twitter.com/themitosan)**.
+If you have any doubts about any of my projects or just want to have a nice conversation - you can call me on **[Twitter](https://twitter.com/themitosan)** or **[Mastodon](https://mastodon.social/@julianaheartz)**.
 
 #
 
