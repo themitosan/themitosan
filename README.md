@@ -3,7 +3,7 @@
   💜 - Hello Sweeties - 💜
 </h1>
 
-I'm *TheMitoSan¹*, creator of [TMS.js](https://github.com/themitosan/TMS.js), [TheMitoSan's Balanced Mod™](https://www.moddb.com/mods/themitosans-balanced-mod), [R3ditor](https://github.com/themitosan/R3ditor), [R3ditor V2 (aka. R3V2)](https://github.com/themitosan/R3ditor-V2) and [fpPS4 Temmie's Launcher](https://github.com/themitosan/fpPS4-Temmie-s-Launcher).
+I'm *TheMitoSan¹*, creator of grpp, [TMS.js](https://github.com/themitosan/TMS.js), [TheMitoSan's Balanced Mod™](https://www.moddb.com/mods/themitosans-balanced-mod), [R3ditor](https://github.com/themitosan/R3ditor), [R3ditor V2 (aka. R3V2)](https://github.com/themitosan/R3ditor-V2) and [fpPS4 Temmie's Launcher](https://github.com/themitosan/fpPS4-Temmie-s-Launcher).
 
 My life goal is making apps / tools and games **u**sing web-technology as offline it can be² - __without any usage / assistance of generative AI__.
 
