@@ -21,7 +21,7 @@ If you have any doubts about any of my projects or just want to have a nice conv
 
 *Here is a list of apps / games / tools / libraries that I created:*
 
-<img style="width:50px;" alt="grpp" src="https://raw.githubusercontent.com/themitosan/R3ditor/master/App/Img/grpp.png">
+<img style="width:50px;" alt="grpp" src="https://raw.githubusercontent.com/themitosan/themitosan/refs/heads/main/img/GRPP.png">
 <a target="_blank" href="https://github.com/themitosan/R3ditor"><img style="width:50px;" alt="R3ditor" src="https://raw.githubusercontent.com/themitosan/R3ditor/master/App/Img/logo.png"></a>
 <a target="_blank" href="https://github.com/themitosan/R3ditor-V2"><img style="width:50px;" alt="R3V2" src="https://github.com/themitosan/R3ditor-V2/blob/main/App/img/logo.png?raw=true"></a>
 <a target="_blank" href="https://github.com/themitosan/TMS.js"><img style="width:50px;" alt="TMS_JS" src="https://raw.githubusercontent.com/themitosan/TMS.js/main/tmsjs.png"></a>
