@@ -3,9 +3,9 @@
   💜 - Hello Sweeties - 💜
 </h1>
 
-I'm *TheMitoSan¹*, creator of [GRPP](https://github.com/themitosan/grpp), [TMS.js](https://github.com/themitosan/TMS.js), [TheMitoSan's Balanced Mod™](https://www.moddb.com/mods/themitosans-balanced-mod), [R3ditor](https://github.com/themitosan/R3ditor), [R3ditor V2 (aka. R3V2)](https://github.com/themitosan/R3ditor-V2) and [fpPS4 Temmie's Launcher](https://github.com/themitosan/fpPS4-Temmie-s-Launcher).
+I'm *TheMitoSan*, creator of [GRPP](https://github.com/themitosan/grpp), [TMS.js](https://github.com/themitosan/TMS.js), [TheMitoSan's Balanced Mod™](https://www.moddb.com/mods/themitosans-balanced-mod), [R3ditor](https://github.com/themitosan/R3ditor), [R3ditor V2 (aka. R3V2)](https://github.com/themitosan/R3ditor-V2) and [fpPS4 Temmie's Launcher](https://github.com/themitosan/fpPS4-Temmie-s-Launcher).
 
-My life goal is making apps / tools and games using web-technology as offline it can be² - __without any usage / assistance of generative AI__.
+My life goal is making apps / tools and games using web-technology as offline it can be¹ - __without any usage / assistance of generative AI__.
 
 I started my dev journey using *Visual Studio 6.0* but then I moved to web development because even back then, I knew that the future lies on the web.
 
@@ -42,10 +42,7 @@ If you have any questions about any of my projects or just want to have a nice c
 </h4>
 
 #
-*<sup>¹ - Formerly known as Juliana / TemmieHeartz. Yes.</sup>*
 
-*<sup>² - I know that today it's very rare not having any kind of connection and is kinda controverse making web-apps that **must** offline but... In the end, the back-end world can be as colorful as you want paint it - with all rainbows and stuff... Until you get offline! :v</sup>*
-
-*<sup>³ - What ~(weirdly)~ is called today as "Boilerplate". **It's a Template** - Nothing more, nothing less.</sup>*
+*<sup>¹ - I know that today it's very rare not having any kind of connection and is kinda controverse making web-apps that **must** offline but... In the end, the back-end world can be as colorful as you want paint it - with all rainbows and stuff... Until you get offline! :v</sup>*
 
 *<sup>If you took your time to read this info, smile - you are a great person!</sup>*
