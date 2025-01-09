@@ -11,6 +11,8 @@ I started my dev journey using *Visual Studio 6.0* but then I moved to web devel
 
 If you have any questions about any of my projects or just want to have a nice conversation - you can call me on **[BlueSky](https://bsky.app/profile/themitosan.bsky.social)** or **[Mastodon](https://mastodon.social/@julianaheartz)**.
 
+I also have a **Discord** server - you can get in by clicking [here](https://discord.gg/2hnFcvbXQ2).
+
 #
 
 <h4 align="center">
